@@ -1,11 +1,11 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Health Data Analysis
+description : This course teaches the fondamental of reading csv file into R and summarize the data. The course focuses on how to use R for geospatial analysis. The data used in this course is from SEER and it is about the "Breast Cancer" in the USA at the county level.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 ---
-## A really bad movie
+## Reading Data into R
 
 ```yaml
 type: MultipleChoiceExercise
